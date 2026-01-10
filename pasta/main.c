@@ -87,7 +87,7 @@ void reset() {
     SP = MEM_SIZE - 1;
 
     Z = false;
-    N = false;
+    C = false;
 }
 
 uint16_t fetch() {
