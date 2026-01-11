@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1768170482 source:c:\users\cinti\onedrive\documentos\ufc\simulador16bit-botelhoteodeio\simulador\main.c
+	<stdio.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+
